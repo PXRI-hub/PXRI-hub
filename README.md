@@ -16,9 +16,8 @@ I'm a computer science student looking for a co-op. I like building things I can
 
 <!-- Skill icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,sklearn,threejs,git,github,vscode&perline=5&theme=dark" />
 </p>
-
 <!-- Stats cards -->
 <table align="center">
   <tr>
