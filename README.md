@@ -3,8 +3,9 @@
 I'm a computer science student looking for a co-op. I like building things I can test, break and learn from, and lately I've been most interested in how AI systems behave: what they leak, what they get wrong, and who they treat differently.
 
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ee6c2b,100:0d1117&height=200&section=header&text=Parneet%20Kreer&fontSize=48&fontColor=ffffff&desc=Software%20Development%20%C2%B7%20AI%20Testing&descSize=18)
-
+   <p align="center">
+     <img src="banner.svg" width="100%" />
+   </p>
 <!-- Badges -->
 <p align="center">
   <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-ee6c2b?style=flat-square&labelColor=0d1117&logo=linkedin" /></a>
