@@ -42,5 +42,5 @@ I'm a computer science student looking for a co-op. I like building things I can
 Python · JavaScript · Typescript · HTML/CSS · Flask · Pandas · scikit-learn · Three.js · Git and GitHub · VS Code · C++ · Java · Feature Encoding · Model evaluation · Data Cleaning · NumPy · XGBoost
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PXRI-hub&layout=compact&hide=jupyter%20notebook&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PXRI-hub&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&v=2" />
 </p>
