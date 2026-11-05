@@ -95,29 +95,42 @@ An interactive 3D Rubik's Cube built using web technologies.
 
 ## Technologies & Tools
 
-**Programming Languages**
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-**AI, Machine Learning & Data**
+### 🤖 AI, Machine Learning & Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=60a5fa)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=flat-square&logo=scipy&logoColor=8CAAE6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logoColor=60a5fa)
 
-**Development Tools & Frameworks**
+### 🛠️ Development Tools & Frameworks
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=flat-square&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-0d1117?style=flat-square&logo=eclipseide&logoColor=F7941E)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Maven](https://img.shields.io/badge/Apache_Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36)
+
+### 🧠 Core Technical Competencies
+
+`Object-Oriented Programming` · `Data Structures & Algorithms` · `Software Testing` · `Debugging` · `File I/O` · `Memory Management` · `Data Cleaning` · `Feature Encoding` · `Feature Selection` · `Model Evaluation` · `Machine Learning Classification` · `Git Version Control` · `Web Development`
 
 ---
