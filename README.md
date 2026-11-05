@@ -1,46 +1,159 @@
+
+<!-- HEADER -->
 <p align="center">
-  <img src="banner.svg" width="100%" />
+  <img src="banner.svg" width="100%" alt="Parneet GitHub Banner"/>
 </p>
 
-# Hi, I'm Parneet! 👋
+<h1 align="center">Hi, I'm Parneet! 👋</h1>
+
+<p align="center">
+  <b>Computer Science Student @ York University</b>
+  <br/>
+  Software Development · Artificial Intelligence · Machine Learning
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parneet-kreer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://pxri-hub.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0d1117?style=for-the-badge&logo=githubpages&logoColor=60a5fa"/>
+  </a>
+</p>
+
+---
+
+## About Me
 
 I'm a computer science student looking for a co-op. I like building things I can test, break and learn from, and lately I've been most interested in how AI systems behave: what they leak, what they get wrong, and who they treat differently.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parneet-kreer"><img src="https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=flat-square&labelColor=0d1117&logo=linkedin" /></a>
-</p>
-
-<h3 align="center">I build and break AI systems to learn how they fail.</h3>
+<h3 align="center">
+  I build and break AI systems to learn how they fail.
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,sklearn,threejs,git,github,vscode&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flask,sklearn,threejs,git,github,vscode&perline=6&theme=dark" alt="Tech Stack"/>
 </p>
 
-## Projects
+---
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/PXRI-hub/llm-audit"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PXRI-hub&repo=llm-audit&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&icon_color=3b82f6&description_lines_count=2" /></a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/PXRI-hub/Break-the-Bot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PXRI-hub&repo=Break-the-Bot&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&icon_color=3b82f6&description_lines_count=2" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/PXRI-hub/adult-income-prediction"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PXRI-hub&repo=adult-income-prediction&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&icon_color=3b82f6&description_lines_count=2" /></a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/PXRI-hub/3D-Rubics-Cube"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=PXRI-hub&repo=3D-Rubics-Cube&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&icon_color=3b82f6&description_lines_count=2" /></a>
-    </td>
-  </tr>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [LLM Audit](https://github.com/PXRI-hub/llm-audit)
+
+Exploring AI system behaviour, information leakage, and model reliability.
+
+**Focus:** AI Evaluation · Security · Testing
+
+[![Repository](https://img.shields.io/badge/View_Repository-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/PXRI-hub/llm-audit)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Break the Bot](https://github.com/PXRI-hub/Break-the-Bot)
+
+Testing AI limitations, unexpected responses, and model behaviour.
+
+**Focus:** AI Testing · Model Evaluation
+
+[![Repository](https://img.shields.io/badge/View_Repository-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/PXRI-hub/Break-the-Bot)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Adult Income Prediction](https://github.com/PXRI-hub/adult-income-prediction)
+
+Machine learning classification using real-world census data and multiple predictive models.
+
+**Stack:** Python · Pandas · scikit-learn · XGBoost
+
+[![Repository](https://img.shields.io/badge/View_Repository-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/PXRI-hub/adult-income-prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [3D Rubik's Cube](https://github.com/PXRI-hub/3D-Rubics-Cube)
+
+An interactive 3D Rubik's Cube built using web technologies.
+
+**Stack:** JavaScript · Three.js
+
+[![Repository](https://img.shields.io/badge/View_Repository-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/PXRI-hub/3D-Rubics-Cube)
+
+</td>
+</tr>
 </table>
 
-## Tools I use
+---
 
-Python · JavaScript · Typescript · HTML/CSS · Flask · Pandas · scikit-learn · Three.js · Git and GitHub · VS Code · C++ · Java · Feature Encoding · Model evaluation · Data Cleaning · NumPy · XGBoost
+## Technologies & Tools
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6)
+
+**AI, Machine Learning & Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=60a5fa)
+
+**Development Tools & Frameworks**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=white)
+
+---
+
+## Programming Language Breakdown
+
+<!--
+The chart below is generated by the GitHub Actions
+workflow at .github/workflows/languages.yml.
+
+It will appear once the workflow has successfully run.
+-->
+
+<details>
+<summary><b>View language usage statistics</b></summary>
+
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PXRI-hub&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&bg_color=0d1117&border_color=3b82f6&title_color=60a5fa&v=2" />
+  <img src="profile/languages.svg" width="85%" alt="Language Usage Statistics"/>
+</p>
+
+<p align="center">
+  <sub>Calculated from public repository code size, not skill proficiency.</sub>
+</p>
+
+</details>
+
+---
+
+<p align="center">
+  <b>Currently seeking Software Development Co-op opportunities for May 2027.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parneet-kreer">
+    <img src="https://img.shields.io/badge/Let's_Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
